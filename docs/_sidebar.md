@@ -19,6 +19,7 @@
    * [胡丽：回顾笨方法学写作之路](chapter01/note14.md)
    * [如何从0到1进行卡片式写作？ - 简书](https://www.jianshu.com/p/d166fa644e80)
    * [苏小爪：什么是“笨办法”？](chapter01/note15.md)
+   * [鬼谷：我如何用“笨方法”理解组块](chapter01/note16.md)
 * [备注](ps/note01s.md)
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
