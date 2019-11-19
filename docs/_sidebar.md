@@ -21,6 +21,7 @@
    * [苏小爪：什么是“笨办法”？](chapter01/note15.md)
    * [鬼谷：我如何用“笨方法”理解组块](chapter01/note16.md)
    * [筱羽依依：理解笨方法学写作](chapter01/note17.md)
+   * [笑思思：笨方法里的理论和方法能够保证我持续行动](chapter01/note18.md)
 * [备注](ps/note01s.md)
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
