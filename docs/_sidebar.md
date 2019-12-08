@@ -2,7 +2,7 @@
 
 * [序言](chapter00/preface.md)
 * [学员故事](chapter01/README.md)
-   * [所有人的故事](chapter01/note00.md)
+   * [课程学员评价](chapter01/note00.md)
    * [Syaoran_：写作的幸福](chapter01/note01.md)
    * [Syaoran_：我与卡片的故事](chapter01/note02.md)
    * [hetao：对笨方法的理解](chapter01/note03.md)
