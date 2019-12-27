@@ -24,6 +24,7 @@
    * [笑思思：笨方法里的理论和方法能够保证我持续行动](chapter01/note18.md)
    * [此乃阴天：对笨办法的理解](chapter01/note19.md)
    * [此乃阴天：我为什么选择《笨方法学写作》](chapter01/note20.md)
+   * [巨魔战酱：给过去自己的一封信](chapter01/note20.md)
 * [备注](ps/note01s.md)
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
